@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of nature](https://upload.wikimedia.org/wikipedia/commons/4/4d/Berg_Lake_Canadian_Rockies.jpg)
